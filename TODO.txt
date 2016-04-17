@@ -1,2 +1,3 @@
 - Bugs:
   - Mouse incompatibility with Outlook?
+  - In Windows Remote Desktop Connection 'Error: The following variable name contains illegal character "not foundkeys" / The current thread will exit. / Line # / 174:Bank: = %Bank%
